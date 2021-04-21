@@ -64,11 +64,11 @@
 
 - NIO
 
-  - ![IO操作流程](D:\gitRepo\Java-Note\Img\image-20210407112436644.png)
+  - ![IO操作流程](..\Img\image-20210407112436644.png)
   
-  - ![image-20210407115013167](D:\gitRepo\Java-Note\Img\image-20210407115013167.png)
+  - ![image-20210407115013167](..\Img\image-20210407115013167.png)
   
-  - ![image-20210407114956597](D:\gitRepo\Java-Note\Img\image-20210407114956597.png)
+  - ![image-20210407114956597](..\Img\image-20210407114956597.png)
   
   - Buffer（缓冲区），对于原有的IO直接对数组操作上进行封装，更易于操作与管理，分为堆外内存（操作系统内存），堆内内存（JVM）
     - 容量（Capacity）  缓冲区能够容纳的数据元素的最大数量  
